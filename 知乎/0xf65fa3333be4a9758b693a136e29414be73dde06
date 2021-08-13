@@ -1,0 +1,11 @@
+{
+ "name": "OTFinancial",
+ "website": "https://www.otfi.one",
+ "description": "OTFi is a decentralized aggregator farming platform based on OKExChain. OTFi strictly selects only OKExChain's safes and most profitable mining projects. OT is a native token of OTFi, and OT-holders can vote to participate in the governance of OTFi projects.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xf65fa3333be4a9758b693a136e29414be73dde06",
+ "type": "KIP20",
+ "symbol": "OT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf65fa3333be4a9758b693a136e29414be73dde06"
+}
